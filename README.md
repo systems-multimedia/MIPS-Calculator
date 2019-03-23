@@ -7,4 +7,4 @@
 													                     
      El programa debe sumar, restar y multiplicar enteros largos, teniendo cuidado de mantener		    
      consistencia con los decimales asumidos.							                                          	
-										                               Trimestre 1-1819	           
+Trimestre 1-1819	           
